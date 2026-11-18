@@ -1,0 +1,13 @@
+C:\KGI_QNote\code\slnDataStockAccess\prjDataStockAccess\bin\Debug\prjDataStockAccess.exe.config
+C:\KGI_QNote\code\slnDataStockAccess\prjDataStockAccess\bin\Debug\prjDataStockAccess.exe
+C:\KGI_QNote\code\slnDataStockAccess\prjDataStockAccess\bin\Debug\prjDataStockAccess.pdb
+C:\KGI_QNote\code\slnDataStockAccess\prjDataStockAccess\obj\Debug\prjDataStockAccess.csproj.AssemblyReference.cache
+C:\KGI_QNote\code\slnDataStockAccess\prjDataStockAccess\obj\Debug\prjDataStockAccess.Properties.Resources.resources
+C:\KGI_QNote\code\slnDataStockAccess\prjDataStockAccess\obj\Debug\prjDataStockAccess.views.FieldBox.resources
+C:\KGI_QNote\code\slnDataStockAccess\prjDataStockAccess\obj\Debug\prjDataStockAccess.csproj.GenerateResource.cache
+C:\KGI_QNote\code\slnDataStockAccess\prjDataStockAccess\obj\Debug\prjDataStockAccess.csproj.CoreCompileInputs.cache
+C:\KGI_QNote\code\slnDataStockAccess\prjDataStockAccess\obj\Debug\prjDataStockAccess.exe
+C:\KGI_QNote\code\slnDataStockAccess\prjDataStockAccess\obj\Debug\prjDataStockAccess.pdb
+C:\KGI_QNote\code\slnDataStockAccess\prjDataStockAccess\obj\Debug\prjDataStockAccess.Form1.resources
+C:\KGI_QNote\code\slnDataStockAccess\prjDataStockAccess\obj\Debug\prjDataStockAccess.views.FrmStock.resources
+C:\KGI_QNote\code\slnDataStockAccess\prjDataStockAccess\obj\Debug\prjDataStockAccess.exe.config
